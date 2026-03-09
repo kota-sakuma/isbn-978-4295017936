@@ -1,11 +1,11 @@
-public class TangibleAsset implements Asset, Thing {
+public class IntangibleAsset implements Asset, Thing {
 
   private String name;
   private int price;
   private String color;
   private double weight;
 
-  public TangibleAsset(String name, int price, String color) {
+  public IntangibleAsset(String name, int price, String color) {
     this.name = name;
     this.price = price;
     this.color = color;
