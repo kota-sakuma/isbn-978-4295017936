@@ -1,3 +1,5 @@
+package asset;
+
 public class TangibleAsset implements Asset, Thing {
 
   private String name;

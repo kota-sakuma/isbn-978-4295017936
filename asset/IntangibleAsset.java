@@ -1,3 +1,5 @@
+package asset;
+
 public class IntangibleAsset implements Asset, Thing {
 
   private String name;

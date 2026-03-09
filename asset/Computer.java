@@ -1,3 +1,4 @@
+package asset;
 public class Computer extends TangibleAsset {
 
   String makerName;

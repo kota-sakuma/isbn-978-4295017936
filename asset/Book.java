@@ -1,3 +1,4 @@
+package asset;
 public class Book extends TangibleAsset {
 
   String isbn;
